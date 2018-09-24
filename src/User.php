@@ -1,6 +1,6 @@
 <?php
 
-namespace Php\Package;
+namespace Myproject;
 
 use Illuminate\Support\Collection;
 
